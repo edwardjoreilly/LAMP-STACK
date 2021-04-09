@@ -1,0 +1,24 @@
+Description of files:
+
+-The lab2.php page has two buttons on it. One goes to lab2Login.php and the other one goes to lab2Reg.php.
+
+-The lab2Login.php and lab2Reg.php files are both almost exactly the same file. The php code is slightly different between them and I have commented the php code extensively to add explanation of how it works.
+
+-The lab2Login.php page will go to either lab2Admin.php if "Administrator" is entered as the username, or it will go to logSuccess.php if any other username is entered and is in the database. Also on the logSuccess.php page, there is a button that will return the user to the lab2.php page if they click it.
+
+-The lab2Reg.php page will go to regSuccess.php if the user was able to successfully provide a username that wasn't already in the database. On the regSuccess.php page, there is a home button that will return the user back to lab2.php if they click it.
+
+-I left the index.php page in the directory for sake of completeness, and it only has the phpinfo() function in it still.
+
+
+Description of Project Completeness:
+As far as I can tell, I was able to finish all of the requirements besides the extra credit for this assignement.
+
+Description of an known bugs in the program:
+I beleive that I have fixed all of the bugs in my program that I am aware of.
+
+Apology:
+I am very sorry I was not able to complete this assignment in time to present it to you in class, Professor. I hope that I have made this text file easy for you to follow and understand and also that my comments are descriptive enough to explain my php code. Thank you for an amazing semester and I appreciate how helpful you were over the entire summer.
+
+Best,
+Edward O'Reilly
